@@ -58,7 +58,7 @@
 - type: radioChannel
   id: Supply
   name: Поставщики
-  keycode: 'п'
+  keycode: 'щ'
   frequency: 1347
   color: "#b48b57"
 
@@ -111,7 +111,7 @@
   abstract: true # Frontier
   id: Mothership
   name: Материнский корабль
-  keycode: 'мк'
+  keycode: 'ь'
   frequency: 2003
   color: "#ff2222"
   # long range since I don't wanna make a special xenoborg telecomm server
