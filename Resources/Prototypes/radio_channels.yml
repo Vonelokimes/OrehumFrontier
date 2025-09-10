@@ -51,7 +51,7 @@
 - type: radioChannel
   id: Service
   name: Сервисная служба
-  keycode: 'се'
+  keycode: 'е'
   frequency: 1349
   color: "#539c00"
 
@@ -65,7 +65,7 @@
 - type: radioChannel
   id: Syndicate
   name: Синдикат
-  keycode: 'син'
+  keycode: 'т'
   frequency: 1213
   color: "#8f4a4b"
 #  longRange: true # Frontier - Move to Syndicate Base
@@ -90,8 +90,8 @@
 
 - type: radioChannel
   id: Freelance
-  name: chat-radio-freelance
-  keycode: 'f'
+  name: Свободный
+  keycode: 'в'
   frequency: 1984
   color: "#f6ce64"
   # long range since otherwise it'd defeat the point of a handheld radio independent of telecomms
