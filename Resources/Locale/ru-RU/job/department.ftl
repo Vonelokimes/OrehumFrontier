@@ -1,0 +1,13 @@
+department-Cargo = Отдел снабжения
+department-Civilian = Сервисный отдел
+department-Command = Командование Фронтира
+department-CentralCommand = Центральное Командование
+department-Engineering = Инженерный отдел
+department-Medical = Медицинский отдел
+department-Security = Департамент Шерифа Нового Фронтира
+department-Science = Научный отдел
+department-Silicon = Синтетики
+department-Specific = На определённых станциях
+department-Unknown = Неизвестно
+department-Syndicate = Синдикат
+department-Freelance = Фриланс

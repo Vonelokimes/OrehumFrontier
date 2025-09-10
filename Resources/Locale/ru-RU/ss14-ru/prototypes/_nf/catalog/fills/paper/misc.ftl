@@ -1,0 +1,15 @@
+ent-PaperWrittenPirateScribbles = пропавшая газировка
+    .suffix = Бумага
+    .desc = { ent-Paper.desc }
+ent-PaperWrittenFrontierFridge = политика холодильника
+    .suffix = Бумага
+    .desc = { ent-Paper.desc }
+ent-PaperWrittenNfsdSearchWarrant = ордер на обыск
+    .suffix = Бумага
+    .desc = { ent-Paper.desc }
+ent-PaperWrittenGriftyScript = сценарий Грифти
+    .suffix = Бумага
+    .desc = { ent-Paper.desc }
+ent-PaperWrittenGriftyWindow = записка для босса
+    .suffix = Бумага
+    .desc = { ent-PaperOffice.desc }

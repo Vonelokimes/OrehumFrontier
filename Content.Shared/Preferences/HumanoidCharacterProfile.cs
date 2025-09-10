@@ -29,7 +29,7 @@ namespace Content.Shared.Preferences
         private static readonly Regex RestrictedNameRegex = new(@"[^А-Я,а-я,0-9 '\-]");
         private static readonly Regex ICNameCaseRegex = new(@"^(?<word>\w)|\b(?<word>\w)(?=\w*$)");
 
-        public const int DefaultBalance = 30000; // Frontier
+        public const int DefaultBalance = 65000; // Frontier
 
         /// <summary>
         /// Job preferences for initial spawn.
